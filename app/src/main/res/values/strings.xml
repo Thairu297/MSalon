@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Services</string>
+    <string name="Services">Services</string>
+    <string name="Manicure">Manicure</string>
+    <string name="Spa">Spa</string>
+    <string name="Pedicure">Pedicure</string>
+    <string name="todo">TODO</string>
+</resources>
